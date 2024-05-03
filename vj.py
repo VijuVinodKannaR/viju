@@ -32,18 +32,18 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     st.link_button("LinkedIn", "https://www.linkedin.com/in/vijuvinodkanna/",use_container_width=True )
-    st.link_button("Ivanna Shalom", "https://www.ivannashalom.com/",use_container_width=True )
+    #st.link_button("Ivanna Shalom", "https://www.ivannashalom.com/",use_container_width=True )
 
     
 with col2:
     st.link_button("Instagram", "https://www.instagram.com/viju0077/?hl=en",use_container_width=True)
-    st.link_button("Raj Kumar", "https://www.ivannashalom.com/rajkumar",use_container_width=True )
+    #st.link_button("Raj Kumar", "https://www.ivannashalom.com/rajkumar",use_container_width=True )
 
     
 
 with col3:
     st.link_button("Facebook", "https://www.facebook.com/viju0077",use_container_width=True)
-    st.link_button("King Of Kings", "https://www.ivannashalom.com/kingofkings",use_container_width=True )    
+    #st.link_button("King Of Kings", "https://www.ivannashalom.com/kingofkings",use_container_width=True )    
 
 
 
