@@ -21,7 +21,7 @@ LOGGER = get_logger(__name__)
 def run():
     st.set_page_config(
         page_title="Viju",
-        page_icon="👋",
+        page_icon=":flag-no:",
     )
 
 st.image('Viju.png')
